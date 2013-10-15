@@ -1,8 +1,8 @@
 {
-  "name": "grunt-wait",
+  "name": "grunt-wait-forever",
   "description": "Makes grunt wait forever, useful for running HTTP server.",
   "version": "0.1.0",
-  "homepage": "https://github.com/urish/grunt-wait",
+  "homepage": "https://github.com/urish/grunt-wait-forever
   "author": {
     "name": "Uri Shaked",
     "email": "uri@urish.org",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/urish/grunt-wait.git"
+    "url": "git://github.com/urish/grunt-wait-forever.git"
   },
   "bugs": {
-    "url": "https://github.com/urish/grunt-wait/issues"
+    "url": "https://github.com/urish/grunt-wait-forever/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/urish/grunt-wait/blob/master/LICENSE-MIT"
+      "url": "https://github.com/urish/grunt-wait-forever/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
