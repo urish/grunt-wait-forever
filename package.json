@@ -2,7 +2,7 @@
   "name": "grunt-wait-forever",
   "description": "Makes grunt wait forever, useful for running HTTP server.",
   "version": "0.1.0",
-  "homepage": "https://github.com/urish/grunt-wait-forever
+  "homepage": "https://github.com/urish/grunt-wait-forever",
   "author": {
     "name": "Uri Shaked",
     "email": "uri@urish.org",
