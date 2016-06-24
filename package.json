@@ -1,7 +1,7 @@
 {
   "name": "grunt-wait-forever",
   "description": "Makes grunt wait forever, useful for running HTTP server.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/urish/grunt-wait-forever",
   "author": {
     "name": "Uri Shaked",
@@ -22,13 +22,13 @@
     }
   ],
   "engines": {
-    "node": ">= 0.8.0"
+    "node": ">= 0.10.0"
   },
   "devDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": "^1.0.0"
   },
   "peerDependencies": {
-    "grunt": "~0.4.0"
+    "grunt": "^1.0.0"
   },
   "keywords": [
     "gruntplugin"
